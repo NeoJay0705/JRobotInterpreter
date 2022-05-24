@@ -1,0 +1,8 @@
+#模擬印表的Create PDF button位置
+printPosition = 650,540
+#模擬小鍵盤的位置
+pinPad1Position = 600,500
+pinPad2Position = 650,500
+pinPad3Position = 700,500
+pinPad4Position = 600,530
+pinPadEnterPosition = 700,600
